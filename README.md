@@ -2,7 +2,9 @@
 Reto-Tecnico para el Puesto de QA Automation Engineer
 
 <br>Solución para el Anexo 1:
+<br>
 <br>Plan de pruebas:
+<br>
 <br>a. Autenticación (Auth):
 <br>Verificar que se pueda autenticar correctamente con credenciales válidas.
 <br>Verificar que no se pueda autenticar con credenciales inválidas.
