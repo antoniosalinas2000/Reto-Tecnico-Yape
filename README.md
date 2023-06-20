@@ -22,3 +22,9 @@ Reto-Tecnico para el Puesto de QA Automation Engineer
 <br>
 <br>c. Ping:
 <br> - Realizar una solicitud de ping y verificar que se reciba una respuesta exitosa.
+
+
+<br>Solución para el Anexo 2:
+<br>
+<br>Plan de pruebas:
+<br>
